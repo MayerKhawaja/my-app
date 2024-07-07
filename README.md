@@ -1,3 +1,5 @@
+# My first GitHub Project
+This is my first mern Github project. I publish this project directly from visual studio code.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
